@@ -1,0 +1,30 @@
+#intro {
+    font-size: 20px;
+    font-family: "Host Grotesk", serif;
+}
+
+#bio {
+    font-size: 20px;
+    font-family: "Host Grotesk", serif;
+    margin: 40px;
+    align-items:center;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#logo {
+    font-family: "Rouge Script", serif;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.list-container {
+    align-self: center;
+    display: inline-block;
+    margin-right: 5%;
+    padding: 40px;
+    vertical-align: top;
+}
